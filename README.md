@@ -1,3 +1,10 @@
+# Hosted URL - https://65ca7f29d42f553d075d366d--lucent-moxie-366ff3.netlify.app/
+
+![Screenshot (604)](https://github.com/Kashifraza1208/searching-filtering-pagination/assets/60813449/0d025bc3-2cdd-4f71-a93e-0f34e4f7794a)
+![Screenshot (605)](https://github.com/Kashifraza1208/searching-filtering-pagination/assets/60813449/cf11e1b6-6c00-4717-a3b9-390004ac9adc)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
