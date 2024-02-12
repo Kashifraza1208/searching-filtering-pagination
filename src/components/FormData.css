@@ -1,0 +1,14 @@
+.form-class {
+  width: 35vw;
+  height: 46vh;
+  background-color: #667a8d;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 14px;
+}
+
+.formData {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

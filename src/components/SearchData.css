@@ -1,0 +1,17 @@
+.search-class {
+  /* width: 20vw; */
+  /* margin: 0px auto; */
+  margin-right: 50px;
+}
+
+.searchData {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  margin-bottom: 20px;
+  /* margin-top: 50px; */
+}
+
+.search-field::placeholder {
+  color: #ffffff;
+}
